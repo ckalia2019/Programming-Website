@@ -1176,9 +1176,12 @@ justify-content: center;
       
 
         .social{
-            
-            font-size: 1.25rem;
+            /* border: 1px solid black; */
+            font-size: 1rem;
+            display: flex;
+            justify-content: center;
            }
+
            .foon{
             height:3.5rem;
             background-color: whitesmoke;
@@ -1204,9 +1207,6 @@ justify-content: center;
 
         .little{
           /* border: 1px solid red; */
-         
-          
-          height:60px;
           display:flex;
           justify-content: center;
           margin-bottom: 2rem;
